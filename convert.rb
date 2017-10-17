@@ -5,7 +5,7 @@ require 'optparse'
 # Album Meta Data
 # 曲情報を記入して下さい
 ###################################################
-album  = "裁継"
+album  = "Unknown Album"
 artist   = "Unknown Artist"
 year    = "2017"
 genre  = "Soundtrack"
